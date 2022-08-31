@@ -11,4 +11,6 @@
 9-Delete myfirstdirectory from tmp diretory
 10-Change to previous directory
 11-List files in current directory,parent directory and /boot directory
-
+12-Prints file type
+13-creates a symbolic link between two directories/file
+14-copies all html files to parent directories
