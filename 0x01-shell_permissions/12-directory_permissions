@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --mode=751 my_dir
+mkdir --mode=751 my_dir
