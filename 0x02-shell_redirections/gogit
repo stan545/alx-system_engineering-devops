@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "File name"
+read File
+git add $File
+echo "Commit message?"
+read message
+git commit -m "Added $message"
+git push
